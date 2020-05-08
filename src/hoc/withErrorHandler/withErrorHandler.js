@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import Modal from '../../components/UI/Modal/Modal';
-import Aux from '../Auxiliary/Aux';
+import Aux from '../Auxiliary/Auxiliary';
 // import BurgerBuilder from '../../containers/BurgerBuilder/BurgerBuilder';
 
 const withErrorHandler = (WrappedComponent, axios) => {
